@@ -134,7 +134,7 @@ console.log("Stampa 32?", numericArray[i]); //dal momento che punta al 32 puoi f
 const charactersArray = ["g", "n", "u", "z", "d"];
 const posizioniLettere = [];
 for (let i = 0; i < charactersArray.length; i++) {
-  //Alessio devi trovare un modo più semplice per farlo
+  //Alessio devi trovare un modo più semplice per farlo//Cerca indexof
   const numeroLettere = charactersArray[i];
   switch (numeroLettere) {
     case "a":

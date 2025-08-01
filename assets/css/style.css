@@ -1,5 +1,5 @@
 /* Your styles here */
-/*To doo quando sei in ispezione la pagina è buona ma come esci da lì no, quando saprai fare il responsive migliorare questa cosa come esercizio */
+/*To doo quando sei in ispezione la pagina è buona ma come esci da lì no, quando saprai fare il responsive migliorare questa cosa come esercizio//ricerca objext-fit: cover e la sua utilità */
 body {
   background-color: #e9edee;
 }
@@ -35,7 +35,7 @@ body {
   background-image: url(/assets/images/bg-image.png);
   margin-left: 30px;
   margin-right: 30px;
-  width: 79rem;
+  width: 79rem; /*oppure 95.5 % */
   height: 200px;
   margin-bottom: 2%;
 }
